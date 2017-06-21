@@ -50,35 +50,35 @@
 			"level": 5,
 			"tag": "&d&lYoutube ",
 			"name_color": "&e",
-			"chat_color": "&f"
+			"chat_color": "&9"
 		},
 		{
 			"id": "twitch",
 			"level": 6,
 			"tag": "&d&lTwitch ",
 			"name_color": "&e",
-			"chat_color": "&f"
+			"chat_color": "&9"
 		},
 		{
 			"id": "dank",
 			"level": 7,
 			"tag": "&a&lDANK ",
 			"name_color": "&a",
-			"chat_color": "&f"
+			"chat_color": "&9"
 		},
 		{
 			"id": "bt",
 			"level": 8,
 			"tag": "&2&lBT ",
 			"name_color": "&2",
-			"chat_color": "&f"
+			"chat_color": "&a"
 		},
 		{
 			"id": "mod",
 			"level": 9,
 			"tag": "&e&lMOD ",
 			"name_color": "&e",
-			"chat_color": "&f",
+			"chat_color": "&6",
 			"permissions": [
 				"AAC.notify",
 				"core.punish.kick",
@@ -125,7 +125,7 @@
 			"level": 10,
 			"tag": "&e&lSR.MOD ",
 			"name_color": "&e",
-			"chat_color": "&f",
+			"chat_color": "&6",
 			"permissions": [
 				"bukkit.command.*"
 			]
@@ -135,7 +135,7 @@
 			"level": 100,
 			"tag": "&c&lADMIN ",
 			"name_color": "&c",
-			"chat_color": "&f",
+			"chat_color": "&6",
 			"permissions": [
 				"bukkit.command.*",
 				"minecraft.command.*",
